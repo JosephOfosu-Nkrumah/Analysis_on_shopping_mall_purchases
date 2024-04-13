@@ -15,3 +15,16 @@ Summary of the table is shown below:
 
 
 ![](https://github.com/JosephOfosu-Nkrumah/Analysis_on_shopping_mall_purchases/blob/main/Table.png)
+
+
+#### Total sales by month
+
+![](https://github.com/JosephOfosu-Nkrumah/Analysis_on_shopping_mall_purchases/blob/main/Total%20Sales%20by%20Month.png)
+#### Most purchased products
+#### Total quantity purchased for each month
+#### Average price per product category
+#### Average quantity purchased per product category
+#### Distribution of total revenue by product category
+#### Distribution of total quantity purchased by product category
+#### Monthly trend in total sales quantity
+#### Monthly trend in total revenue
