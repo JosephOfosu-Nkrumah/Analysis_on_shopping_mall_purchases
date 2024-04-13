@@ -27,9 +27,9 @@ Summary of the table is shown below:
 ![](https://github.com/JosephOfosu-Nkrumah/Analysis_on_shopping_mall_purchases/blob/main/Top%2010%20Most%20Purchased%20Products.png)
 
 
-#### Total quantity purchased for each month
+#### Top 4 Months with Highest Total Purchases
 
-![](https://github.com/JosephOfosu-Nkrumah/Analysis_on_shopping_mall_purchases/blob/main/Distribution%20of%20Total%20Quantity%20Purchased%20by%20Product%20Category.png)
+![](https://github.com/JosephOfosu-Nkrumah/Analysis_on_shopping_mall_purchases/blob/main/Top%204%20Months%20with%20Highest%20Total%20Purchases.png)
 
 
 #### Average price per product category
