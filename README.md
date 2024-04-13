@@ -20,7 +20,11 @@ Summary of the table is shown below:
 #### Total sales by month
 
 ![](https://github.com/JosephOfosu-Nkrumah/Analysis_on_shopping_mall_purchases/blob/main/Total%20Sales%20by%20Month.png)
-#### Most purchased products
+
+
+#### Top 10 most purchased products
+
+![](https://github.com/JosephOfosu-Nkrumah/Analysis_on_shopping_mall_purchases/blob/main/Top%2010%20Most%20Purchased%20Products.png)
 #### Total quantity purchased for each month
 #### Average price per product category
 #### Average quantity purchased per product category
