@@ -10,3 +10,8 @@ Analysis on shopping mall purchases. The analysis was conducted to ascertain the
      7. Distribution of total quantity purchased by product category
      8. Monthly trend in total sales quantity
      9. Monthly trend in total revenue
+
+Summary of the table is shown below:
+
+
+![](https://github.com/JosephOfosu-Nkrumah/Analysis_on_shopping_mall_purchases/blob/main/Table.png)
